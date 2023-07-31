@@ -89,9 +89,16 @@ a {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-.source-code-link,
-.source-code {
+.source-code-link {
   font-size: 14px;
   margin: 55px;
   color: #132743;
+  font-weight: 500px;
+  font-style: italic;
+}
+
+.source-code {
+  font-size: 14px;
+  color: #132743;
+  font-style: italic;
 }
