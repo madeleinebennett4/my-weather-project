@@ -1,0 +1,91 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffe9e3;
+}
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #132743;
+}
+.card-title {
+  font-weight: 700px;
+  font-size: 36px;
+  color: #407088;
+}
+.card {
+  width: 500px;
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  margin-top: 40px;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.city {
+  font-size: 22px;
+}
+.cloudstoday {
+  text-transform: capitalize;
+  font-size: 18px;
+  font-style: italic;
+  color: #132743;
+}
+.search {
+  width: 80px;
+  margin-left: -10px;
+  margin-bottom: 30px;
+}
+.humidity {
+  font-size: 18px;
+  font-style: italic;
+  color: #132743;
+}
+
+.humidityEl {
+  font-size: 18px;
+  font-style: italic;
+  color: #132743;
+}
+.london {
+  font-size: 28px;
+  color: #132743;
+}
+.todays-date {
+  font-size: 18px;
+  color: #132743;
+}
+.weather-info {
+  padding-left: 10px;
+}
+.temperature-today {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 4px;
+  color: #132743;
+}
+.weekdays {
+  text-align: center;
+  font-style: italic;
+  padding-top: 10px;
+  color: #132743;
+}
+.cloud {
+  font-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(159, 158, 158);
+  background: white;
+  padding: 7px;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.cloudy-sun {
+  font-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(240, 240, 42);
+  background: white;
+  padding: 7px;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
